@@ -5,7 +5,9 @@
       <module fileurl="file://$PROJECT_DIR$/CollectUIView.iml" filepath="$PROJECT_DIR$/CollectUIView.iml" />
       <module fileurl="file://$PROJECT_DIR$/MySwipeRefresh01/MySwipeRefresh01.iml" filepath="$PROJECT_DIR$/MySwipeRefresh01/MySwipeRefresh01.iml" />
       <module fileurl="file://$PROJECT_DIR$/MySwipeRefresh02/MySwipeRefresh02.iml" filepath="$PROJECT_DIR$/MySwipeRefresh02/MySwipeRefresh02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MySwipeRefresh03/MySwipeRefresh03.iml" filepath="$PROJECT_DIR$/MySwipeRefresh03/MySwipeRefresh03.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/library/library.iml" filepath="$PROJECT_DIR$/library/library.iml" />
       <module fileurl="file://$PROJECT_DIR$/someview/someview.iml" filepath="$PROJECT_DIR$/someview/someview.iml" />
     </modules>
   </component>

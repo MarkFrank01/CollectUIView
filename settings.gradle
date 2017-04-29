@@ -1,1 +1,1 @@
-include ':app', ':MySwipeRefresh01', ':MySwipeRefresh02', ':someview'
+include ':app', ':MySwipeRefresh01', ':MySwipeRefresh02', ':library', ':MySwipeRefresh03'
