@@ -1,5 +1,6 @@
 package me.hwang.demo;
 
+import android.annotation.SuppressLint;
 import android.os.Handler;
 import android.os.Message;
 import android.support.v7.app.AppCompatActivity;
@@ -22,6 +23,7 @@ public class Demo1Activity extends AppCompatActivity {
     private static final int SHOW_ERROR = 3;
     private static final int SHOW_CONTENT = 4;
 
+    @SuppressLint("HandlerLeak")
     private Handler mHandler = new Handler() {
         @Override
         public void handleMessage(Message msg) {

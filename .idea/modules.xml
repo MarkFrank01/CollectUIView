@@ -8,7 +8,7 @@
       <module fileurl="file://$PROJECT_DIR$/MySwipeRefresh03/MySwipeRefresh03.iml" filepath="$PROJECT_DIR$/MySwipeRefresh03/MySwipeRefresh03.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/library/library.iml" filepath="$PROJECT_DIR$/library/library.iml" />
-      <module fileurl="file://$PROJECT_DIR$/someview/someview.iml" filepath="$PROJECT_DIR$/someview/someview.iml" />
+      <module fileurl="file://D:\learn\CollectUIView\someview\someview.iml" filepath="D:\learn\CollectUIView\someview\someview.iml" />
     </modules>
   </component>
 </project>
